@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215464556861",
+    "project_id": "remoteconfig-9af55",
+    "storage_bucket": "remoteconfig-9af55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215464556861:android:425430543f489f79fc2d54",
+        "android_client_info": {
+          "package_name": "com.ekibet.androidfirebaseremoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215464556861-bkq13bg8r946271qle0kblhf35o97n0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4PkWpZ5-rh9UiFBRBjrVL2-zHuIZpINY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215464556861-bkq13bg8r946271qle0kblhf35o97n0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

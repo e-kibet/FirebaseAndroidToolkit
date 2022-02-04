@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>show_request_token_buton</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>min_amount</key>
+        <value>0</value>
+    </entry>
+    <entry>
+        <key>max_amount</key>
+        <value>100</value>
+    </entry>
+</defaultsMap>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidFirebaseRemoteConfig</string>
+    <string name="hello_blank_fragment">Welcome to Firebase Remote Config</string>
+
+    <!-- Resources for Bank2LogInActivity -->
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="welcome_screen">Welcome back enter amount to proceed.</string>
+</resources>
