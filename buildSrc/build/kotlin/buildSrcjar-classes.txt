@@ -1,0 +1,1 @@
+/home/ekibet/workspace/safaricom/chapterboot/AndroidFirebaseRemoteConfig/buildSrc/build/classes/kotlin/main/Dependencies.class:/home/ekibet/workspace/safaricom/chapterboot/AndroidFirebaseRemoteConfig/buildSrc/build/classes/kotlin/main/Versions.class
