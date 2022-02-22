@@ -1,3 +1,5 @@
+import org.gradle.kotlin.dsl.DependencyHandlerScope
+
 object Versions {
     const val navVersion = "2.4.0"
 }
@@ -26,4 +28,17 @@ object Dependencies{
 
     // timber logger
     const val timber = "com.jakewharton.timber:timber:5.0.1"
+
+    // tests
+    const val junitTestImpl  = "junit:junit:4.13.2"
+    const val junitExt = "androidx.test.ext:junit:1.1.3"
+    const val espresso = "androidx.test.espresso:espresso-core:3.4.0"
+}
+
+fun DependencyHandlerScope.commonDependencies() {
+    "implementation"(Dependencies.core)
+    "implementation"(Dependencies.appCompat)
+    "implementation"(Dependencies.material)
+    "testImplementation"(Dependencies.junitTestImpl)
+    "androidTestImplementation"(Dependencies.espresso)
 }

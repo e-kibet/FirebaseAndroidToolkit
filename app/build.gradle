@@ -36,6 +36,7 @@ android {
 }
 
 dependencies {
+    implementation(project(":ekibetremoteconfig"))
     implementation Dependencies.legacySupport
 
     implementation Dependencies.core
